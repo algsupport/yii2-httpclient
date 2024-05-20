@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "algsupport/yii2": "~2.0.13",
+        "algsupport/yii2": "*",
         "paragonie/random_compat": ">=1"
     },
     "repositories": [
